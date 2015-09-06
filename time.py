@@ -1,4 +1,4 @@
 from datetime import datetime
 
 
-print "Current Time Is : " + str(datetime.now().time())
+print "Current Time Is lalalallaa: " + str(datetime.now().time())
